@@ -1,6 +1,8 @@
 # simon
+hjer er minband af adoino
 [video](https://youtu.be/7DPv1a0kL94)
-mind
+hjer er koði
+[c](https://github.com/gitmaus1/simon/blob/main/simon.imo)
 ![mind](https://github.com/gitmaus1/simon/blob/main/IMG_20220208_121003.jpg)
 
 ![mind](https://github.com/gitmaus1/simon/blob/main/IMG_20220128_134259.jpg)
